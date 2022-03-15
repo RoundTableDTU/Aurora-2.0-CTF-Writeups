@@ -1,0 +1,1 @@
+The best thing about Sherlock Holmes was he could observe. He could find out exactly the needed thing hidden around him in a plain sight. No body can be like Sherlock.. Or can anyone?

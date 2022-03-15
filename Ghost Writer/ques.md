@@ -1,0 +1,3 @@
+While I was writing the beginning of my new bestselling novel, a ghost possessed my keyboard and began typing in a flag! I tried to finish the story, but the computer died shortly after. Luckily, my digital voice recorder caught it all. Can you recover it?
+
+I'm a slow writer, and my custom keyboard has only 27 unique keys; "a-z" and " " (space). No other keys are used. Also, I seem to recall that there's exactly 275 key presses recorded.
