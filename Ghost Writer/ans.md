@@ -57,4 +57,4 @@ print(res)
 
 Using an online substitution cipher solver https://www.guballa.de/substitution-solver gives us the (near perfect) flag.
 
-Flag: `aurora{mechanical_keyboards_are_loud`
+Flag: `aurora{mechanical_keyboards_are_loud}`
