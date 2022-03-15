@@ -1,0 +1,1 @@
+The base of all things is love and respect.
