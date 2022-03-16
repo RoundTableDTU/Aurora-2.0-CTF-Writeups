@@ -8,6 +8,3 @@ Given an aprox time of 5 seconds per attempt, we estimated a total time of 5*999
 Using the python script(attached) which input the pin and checked in the UI dump for the text 'invalid', we were able to let the brute force attack run unsupervised. 
 After 3-4 hours the pin was revealed to us and we were able to access the flag.
 
-import subprocess
-subprocess.call("adb devices",shell=True) 
-
