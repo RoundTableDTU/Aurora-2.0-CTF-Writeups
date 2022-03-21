@@ -1,0 +1,1 @@
+Get ready for the showdown and remember to be brutal. Get a string and embrace it inside aurora{} to get the flag.
