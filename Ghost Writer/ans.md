@@ -1,3 +1,5 @@
+//complete
+
 We get a simple wav file of someone typing a message (275 char long) on a mechanical keyboard. There's approximately 2 characters per second, almost complete silence in between and we know it's only [a-z\s] 
 
 Methodology for the solve : Split the audio into shorter audio samples for each key, assign a letter to each and solve the resulting substitution cipher.
