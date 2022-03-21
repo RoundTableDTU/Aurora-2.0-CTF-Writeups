@@ -13,3 +13,5 @@ symbols and get the flag.
 ```
 
 Flag: `aurora{Play_with_LaTeX}`
+
+//complete
