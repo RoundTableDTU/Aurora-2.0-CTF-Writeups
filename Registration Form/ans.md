@@ -1,0 +1,1 @@
+d2c registration page had the flag.
