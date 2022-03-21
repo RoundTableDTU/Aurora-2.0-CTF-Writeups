@@ -9,3 +9,5 @@ This got us thinking. So we used cewl to scrape the website and all the known lo
 Going there we get the real flag.
 
 Flag: `aurora{easy_injection}`
+
+//done
